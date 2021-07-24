@@ -1,4 +1,4 @@
-# discord-screenshot-resizer
+# Discord Screenshot Resizer
 Large image resizing directly from the clipboard for easy sharing
 
 Prefer to share your image in full quality? Check out my other macro solution [Discord Screenshot Uploader](https://github.com/danetuso/discord-screenshot-uploader).
